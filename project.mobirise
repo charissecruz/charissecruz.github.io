@@ -616,7 +616,7 @@
               }
             },
             ".mbr-section-title": {
-              "color": "#ffffff",
+              "color": "#f9f295",
               "text-align": "left"
             },
             ".mbr-text, .mbr-section-btn": {
@@ -696,7 +696,7 @@
             },
             ".mbr-section-title": {
               "text-align": "left",
-              "color": "#ffffff"
+              "color": "#f7ed4a"
             },
             ".mbr-text, .mbr-section-btn": {
               "text-align": "left",
