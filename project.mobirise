@@ -616,14 +616,15 @@
               }
             },
             ".mbr-section-title": {
-              "color": "#ffffff",
+              "color": "#f7ed4a",
               "text-align": "left"
             },
             ".mbr-text, .mbr-section-btn": {
-              "text-align": "left"
+              "text-align": "left",
+              "color": "#f9f295"
             },
             ".mbr-text, .mbr-section-btn I": {
-              "color": "#ffffff"
+              "color": "#f7ed4a"
             }
           },
           "_name": "header7",
@@ -695,11 +696,11 @@
             },
             ".mbr-section-title": {
               "text-align": "left",
-              "color": "#ffffff"
+              "color": "#f7ed4a"
             },
             ".mbr-text, .mbr-section-btn": {
               "text-align": "left",
-              "color": "#e4d295"
+              "color": "#f7ed4a"
             }
           },
           "_name": "header7",
